@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.5.1.8",
-    "notes":  "Release 0.5.1.8\r\n- making sure everything is up to date so i can check out images\r\n- also testing to make sure the app still updates\r\n- it\u0027s been so long lmao",
-    "installer_url":  "https://github.com/cjadew/anime-va-updates/releases/download/v0.5.1.8/Anime.VA.Setup.0.5.1.8.exe",
-    "sha256":  "B260914333A8B7AD7F15CCE158D8A31CABCD213CD6EDD5595F123A09EBB466EC",
-    "latest_version":  "0.5.1.8",
-    "url":  "https://github.com/cjadew/anime-va-updates/releases/download/v0.5.1.8/Anime.VA.Setup.0.5.1.8.exe"
+    "version":  "0.5.1.9",
+    "notes":  "Release 0.5.1.9\r\n-checking to make sure that the update issue was because of the repo move",
+    "installer_url":  "https://github.com/cjadew/anime-va-updates/releases/download/v0.5.1.9/Anime.VA.Setup.0.5.1.9.exe",
+    "sha256":  "8D20AFCF0EF42FE2DDA9FD85953E9B51FB844A2E348BFE1FC5FF6F27E9F54CE8",
+    "latest_version":  "0.5.1.9",
+    "url":  "https://github.com/cjadew/anime-va-updates/releases/download/v0.5.1.9/Anime.VA.Setup.0.5.1.9.exe"
 }

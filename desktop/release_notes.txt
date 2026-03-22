@@ -1,4 +1,2 @@
-Release 0.5.1.8
-- making sure everything is up to date so i can check out images
-- also testing to make sure the app still updates
-- it's been so long lmao
+Release 0.5.1.9
+-checking to make sure that the update issue was because of the repo move
